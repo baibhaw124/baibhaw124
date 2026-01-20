@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Baibhaw Kumar Upadhyay from Gopalganj, Bihar. I have completed my 10th from CBSE with meritorious marks. Currently, I am in the final phase of my Diploma in Computer Engineering from Ambedkar DSEU Campus, Delhi, having secured a meritorious CGPA . I have a strong interest in computer science with experience in Data Science, Python, and Web Development. Proficient in Python, HTML, CSS, JavaScript, data analysis, and visualization, with hands-on internship and project experience.
+I am Baibhaw Kumar Upadhyay . I have completed my 10th from CBSE with meritorious marks. Currently, I am in the final phase of my Diploma in Computer Engineering from Ambedkar DSEU Campus, Delhi, having secured a meritorious CGPA . I have a strong interest in computer science with experience in Data Science, Python, and Web Development. Proficient in Python, HTML, CSS, JavaScript, data analysis, and visualization, with hands-on internship and project experience.
 
 
 ## 🌐 Socials:
